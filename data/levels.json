@@ -1,0 +1,8 @@
+{
+  "levels": [
+    { "id": "001", "name": "Level 001", "image": "assets/levels/level_001.png" },
+    { "id": "002", "name": "Level 002", "image": "assets/levels/level_002.png" },
+    { "id": "003", "name": "Level 003", "image": "assets/levels/level_003.png" },
+    { "id": "004", "name": "Level 003", "image": "assets/levels/level_004.png" }
+  ]
+}
